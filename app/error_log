@@ -1,0 +1,195 @@
+[18-Mar-2019 23:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:175
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(32): login(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 175
+[19-Mar-2019 03:18:38 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:18:38 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 03:18:38 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:18:38 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 03:19:15 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:19:15 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 03:19:15 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:19:15 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 03:19:15 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:19:15 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 03:19:18 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:19:18 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 03:22:35 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 03:22:35 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 04:08:22 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 04:08:22 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[19-Mar-2019 04:08:22 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 186
+[19-Mar-2019 04:08:22 UTC] PHP Notice:  Undefined index: name in /home/fo8nzxttjou0/public_html/app/index.php on line 188
+[29-Mar-2019 06:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:208
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(32): login(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 208
+[29-Mar-2019 06:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:208
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(32): login(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 208
+[29-Mar-2019 06:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:208
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(32): login(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 208
+[29-Mar-2019 06:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:208
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(32): login(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 208
+[29-Mar-2019 06:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:227
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(37): register(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 227
+[29-Mar-2019 06:54:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:227
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(37): register(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 227
+[29-Mar-2019 06:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:227
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(37): register(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 227
+[29-Mar-2019 06:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:227
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(37): register(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 227
+[29-Mar-2019 06:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:227
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(37): register(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 227
+[29-Mar-2019 06:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/index.php:227
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/index.php(37): register(Array, false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/index.php on line 227
+[29-Mar-2019 07:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tablafem2.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tablafem2.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tablafem2.php on line 29
+[29-Mar-2019 07:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tablafem1.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tablafem1.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tablafem1.php on line 29
+[29-Mar-2019 07:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tablafem2.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tablafem2.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tablafem2.php on line 29
+[29-Mar-2019 07:11:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php on line 30
+[29-Mar-2019 07:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php on line 30
+[29-Mar-2019 07:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tablafem1.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tablafem1.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tablafem1.php on line 29
+[29-Mar-2019 07:21:33 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 206
+[30-Mar-2019 03:36:03 UTC] PHP Notice:  Undefined index: pass in /home/fo8nzxttjou0/public_html/app/index.php on line 206
+[05-Apr-2019 23:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[05-Apr-2019 23:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[05-Apr-2019 23:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[05-Apr-2019 23:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[05-Apr-2019 23:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php on line 30
+[05-Apr-2019 23:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php on line 30
+[05-Apr-2019 23:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php on line 30
+[05-Apr-2019 23:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php on line 30
+[06-Apr-2019 00:02:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[06-Apr-2019 00:02:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[06-Apr-2019 16:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[06-Apr-2019 16:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[06-Apr-2019 16:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php on line 30
+[06-Apr-2019 16:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba2.php on line 30
+[06-Apr-2019 16:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php on line 30
+[06-Apr-2019 16:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php:30
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba.php(24): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba.php on line 30
+[06-Apr-2019 16:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29
+[06-Apr-2019 16:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php:29
+Stack trace:
+#0 /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php(23): actualizarTabla(false)
+#1 {main}
+  thrown in /home/fo8nzxttjou0/public_html/app/tabla_prueba3.php on line 29

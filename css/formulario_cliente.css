@@ -1,0 +1,159 @@
+.campo_formulario{
+	display: block;
+		  width: 100%;
+		  padding: 0.375rem 0.75rem;
+		  font-size: 1rem;
+		  line-height: 1.5;
+		  color: #495057;
+		  background-color: #fff;
+		  background-clip: padding-box;
+		  border-bottom: 1px solid #ced4da;
+		  border-top: 1px solid rgba(255,255,255,0);
+		  border-left: 1px solid rgba(255,255,255,0);
+		  border-right: 1px solid rgba(255,255,255,0);
+		  border-radius: 0.25rem;
+		  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.campo_formulario:focus{
+	color: #495057;
+  	background-color: #fff;
+  	border-color: #80bdff;
+  	outline: 0;
+  	box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.boton_formulario{
+	text-decoration: none; 
+	color: #32d9cf; 
+	border-radius: 2rem; 
+	background-color: #3c70e4; 
+	padding-left: 4.5em; 
+	padding-right: 4.5em; 
+	padding-top: 1.5em; 
+	padding-bottom: 1.5em;
+}
+
+.boton_formulario:hover{
+	background-color: #32d9cf;
+	text-decoration: none;
+	color: #fff;
+}
+
+.boton_formulario_tres{
+  text-decoration: none; 
+  color: #fff; 
+  border-radius: 2rem; 
+  background-color: #32d9cf;
+  padding-left: 4.5em; 
+  padding-right: 4.5em; 
+  padding-top: 1.5em; 
+  padding-bottom: 1.5em;
+}
+
+.boton_formulario_tres:hover{
+  background-color: #3c70e4;
+  text-decoration: none;
+  color: #fff;
+}
+
+.campo_select_formulario{
+	display: block;
+  	width: 100%;
+  	padding: 1rem 1rem;
+  	font-size: 1rem;
+  	line-height: 1.5;
+  	color: #495057;
+  	background: url(../images/arrow.png) no-repeat right white;
+  	background-clip: padding-box;
+  	border: 1px solid #ced4da;
+  	border-radius: 2rem;
+  	transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  	-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
+.boton_formulario_dos{
+  text-decoration: none; 
+  color: #32d9cf; 
+  border-radius: 2rem; 
+  background-color: #fff; 
+  border: 1px solid #32d9cf;
+  padding-left: 4.5em; 
+  padding-right: 4.5em; 
+  padding-top: 1.5em; 
+  padding-bottom: 1.5em;
+}
+
+.boton_formulario_dos:hover{
+  background-color: #32d9cf;
+  text-decoration: none;
+  color: #fff;
+}
+
+/*select {
+	background: #F0F3FB;
+	border: 1px solid #F0F3FB;
+	border-radius: 4px;
+	width: 100%;
+	padding: 20px;
+	font-size: 16px;
+	color: #3F3F3F;
+
+	/* Here's the code we need 
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	 -o-appearance: none;
+		appearance: none;
+}
+
+.select-wrapper {
+	position: relative;	
+}
+
+.select-wrapper:after {
+	font-family: FontAwesome;
+  	content: '\f107';
+  	font-size: 28px;
+  	position: absolute;
+  	top: 12px;
+  	right: 20px;
+  	color: #434B67;
+  	pointer-events: none;
+}
+
+select::-ms-expand {
+  display: none;
+}*/
+
+
+/**.select_box{
+  width: 200px;
+  overflow: hidden;
+  border: 1px solid #F0F3FB;
+  border-radius: 4px;
+  position: relative;
+  padding: 20px;
+}
+.select_box:after{
+  width: 0; 
+  height: 0; 
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid gray;
+  position: absolute;
+  top: 40%;
+  right: 5px;
+  content: "";
+  z-index: 98;
+ }
+.select_box select{
+  width: 220px;
+  border: 0;
+  position: relative;
+  z-index: 99;
+  background: none;
+}/
